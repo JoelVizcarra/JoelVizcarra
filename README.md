@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Growth Acceleration Partners<br>🌱 I’m currently learning GoLang<br>💬 Ask me about NodeJS, ReactJS, and Python
+# About Me:
+🔭 I’m currently working on Growth Acceleration Partners<br>🌱 I’m currently learning Web Sockets<br>💬 Ask me about NodeJS, ReactJS, and Python
 
 
 ## 🌐 Socials:
